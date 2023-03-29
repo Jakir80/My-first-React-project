@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color:#1c2b35;
+    height: 80px;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 80px;
+
+}
+.link {
+    text-decoration: none;
+    color: azure;
+    display: flex;
+    gap: 15px;
+
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+ font-size: 22px;
+}
